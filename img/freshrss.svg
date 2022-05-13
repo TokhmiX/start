@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="freshrss.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     width="256mm"
+     inkscape:zoom="0.37308394"
+     inkscape:cx="290.81927"
+     inkscape:cy="328.34434"
+     inkscape:window-width="1880"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffde8d;stroke-width:0;stroke-opacity:1;stop-color:#000000"
+       id="path3885"
+       cx="128"
+       cy="128"
+       r="128" />
+    <g
+       id="g68"
+       transform="matrix(0.78569431,0,0,0.78569431,27.431129,27.431129)">
+      <circle
+         fill="#0062be"
+         cx="128"
+         cy="128"
+         r="33"
+         id="circle11"
+         style="fill:#f8c23f;fill-opacity:1" />
+      <g
+         fill="none"
+         stroke="#0062be"
+         stroke-width="24"
+         id="g23">
+        <g
+           stroke-opacity="0.3"
+           id="g17">
+          <path
+             d="M 12,128 A 116,116 0 1 1 128,244"
+             id="path13"
+             style="stroke:#ffde8d;stroke-opacity:1" />
+          <path
+             d="m 54,128 a 74,74 0 1 1 74,74"
+             id="path15"
+             style="stroke:#ffde8d;stroke-opacity:1" />
+        </g>
+        <path
+           d="M 128,12 A 116,116 0 0 1 244,128"
+           id="path19"
+           style="stroke:#f8c23f;stroke-opacity:1" />
+        <path
+           d="m 128,54 a 74,74 0 0 1 74,74"
+           id="path21"
+           style="stroke:#f8c23f;stroke-opacity:1" />
+      </g>
+      <g
+         fill="#0062bd"
+         stroke-width="0"
+         font-family="'Open Sans'"
+         font-weight="600"
+         font-size="213px"
+         id="g43">
+        <desc
+           id="desc25">FreshRSS</desc>
+      </g>
+    </g>
+  </g>
+</svg>
